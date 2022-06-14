@@ -1,1 +1,1 @@
-alert('Show');
+console.log("sfsd");
